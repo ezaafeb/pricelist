@@ -40,5 +40,4 @@ Tetap terhubung dengan kami untuk mendapatkan penawaran dan informasi terbaru:
 ## 🛠️ **Cara Menggunakan Repositori Ini**  
 1. **Clone repo ini**  
    ```bash
-[   git clone https://github.com/ezaafeb/SiberShop.git
-](https://github.com/ezaafeb/pricelist.git)
+   git clone https://github.com/ezaafeb/pricelist.git
