@@ -32,7 +32,7 @@ Tetap terhubung dengan kami untuk mendapatkan penawaran dan informasi terbaru:
 - 📧 **Email**: [sibershop.store@gmail.com](mailto:sibershop.store@gmail.com)  
 - 📱 **WhatsApp**: [Klik di sini](https://wa.me/+6285174155134)  
 - 🌐 **Website**: [Siber Shop Store](https://www.sibershop.co.id)  
-- 💼 **LinkedIn**: [PT. SIBER SHOP TEKNOLOGI INDONESIA]([https://www.linkedin.com/in/sibershop](https://www.linkedin.com/company/pt-siber-shop-teknologi-indonesia/))  
+- 💼 **LinkedIn**: [PT. SIBER SHOP TEKNOLOGI INDONESIA](https://www.linkedin.com/company/pt-siber-shop-teknologi-indonesia/)  
 - 📸 **Instagram**: [@sibershopstore](https://www.instagram.com/sibershopstore)  
 
 ---
